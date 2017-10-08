@@ -1,7 +1,0 @@
-[
-null,
-{"id":1,"list":[{"code":101,"indent":0,"parameters":["",0,0,2]},{"code":401,"indent":0,"parameters":["01－Ｎ"]},{"code":401,"indent":0,"parameters":["房號：101"]},{"code":401,"indent":0,"parameters":["（這裡放人物設定）"]},{"code":0,"indent":0,"parameters":[]}],"name":"精神病院個人名冊-1","switchId":1,"trigger":0},
-{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
-]
