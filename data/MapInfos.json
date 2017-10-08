@@ -1,8 +1,8 @@
 [
 null,
-{"id":1,"expanded":true,"name":"玄關","order":1,"parentId":0,"scrollX":817,"scrollY":521},
-{"id":2,"expanded":true,"name":"廁所","order":11,"parentId":14,"scrollX":819,"scrollY":454},
-{"id":3,"expanded":true,"name":"側門","order":2,"parentId":0,"scrollX":819,"scrollY":446.5},
+{"id":1,"expanded":true,"name":"復興公園","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":true,"name":"側門","order":2,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":true,"name":"玄關","order":3,"parentId":1,"scrollX":832,"scrollY":640},
 null,
 null,
 {"id":6,"expanded":true,"name":"存檔點小房間","order":4,"parentId":12,"scrollX":819,"scrollY":454},
@@ -19,5 +19,5 @@ null,
 null,
 null,
 null,
-{"id":20,"expanded":false,"name":"復興公園","order":1,"parentId":0,"scrollX":819,"scrollY":446.5}
+{"id":20,"expanded":true,"name":"廁所","order":11,"parentId":14,"scrollX":819,"scrollY":454}
 ]
