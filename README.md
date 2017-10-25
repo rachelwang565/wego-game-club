@@ -51,3 +51,8 @@ Branch(分支，用高中生比較容易懂的話語就是平行世界)，為了
 + 顯示目前所有分支 `git branch`
 
 ![New Branch](/README/branch/1.jpg)
+
+### 修改些東西然後存檔
+當我們在自己的分支做些修改後，我們可以給它設定個紀錄點，紀錄我們這次修改了哪些東西，我們可以用`git status`來看那些東西被修改了
+
+![New Branch](/README/add_commit/1.jpg)
