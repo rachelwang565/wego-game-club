@@ -36,6 +36,6 @@
 ### Clone危閣精神病院
 > 在這之前，你要先有個[Github](https://github.com/)帳號
 
-先切換到你要存放危閣精神病院的目錄，假設我們要存到本機磁碟(E:)那就要輸入`cd e:`，然後在輸入`git clone https://github.com/rachelwang565/wego-game-club.git`，就會自動開始下載最新版本的危閣精神病院了!
+先切換到你要存放危閣精神病院的目錄，假設我們要存到本機磁碟(E:)那就要輸入`cd e:`，如果要存放到D槽的Homework資料夾，那就要輸入`cd d:/Homework`，最後我們輸入`git clone https://github.com/rachelwang565/wego-game-club.git`，就會開始下載最新版本的危閣精神病院了!
 
 ![Check user](/README/clone/1.jpg)
