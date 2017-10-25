@@ -21,3 +21,14 @@
 沒有的話。請到搜尋Windows中搜尋`Git`，點選`Git Bash`
 
 ![Search Git](/README/install/12.jpg)
+
+### 設定使用者
+第一次安裝需要設定使用者，好方便讓其他人知道是誰修改了紀錄，在Git Bash(黑色視窗)輸入下面兩個指令，名字跟電子郵件信箱請打`英文或數字`
++ `git config --global user.name "你的名字"`
++ `git config --global user.email "電子郵件信箱"`
+
+![Setup user](/README/setup/1.jpg)
+
+設定完後我們可以輸入`git config -l`看有沒有出現剛剛的設定
+
+![Check user](/README/setup/2.jpg)
