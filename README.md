@@ -7,7 +7,9 @@
 
 ### 安裝
 安裝只要一直按Next就好了，其他設定都不用動，但是有一個地方例外，要選擇`Checkout as-is, commit as-is`
+
 ![Checkout as-is, commit as-is](/README/install/7.jpg)
 
 最後點選`Launch Git Bash`
+
 ![Launch Git Bash](/README/install/10.jpg)
