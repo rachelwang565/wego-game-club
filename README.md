@@ -90,3 +90,7 @@ Branch(分支，用高中生比較容易懂的話語就是平行世界)，為了
 + `git push` 將本地檔案更新到網路上
 
 ![merge, pull and push](/README/merge_pull_push/2.jpg)
+
+### 其他
+
+上述指令已經是最精簡了，平時只要依照需求使用即可，如果想知道更詳細的指令可以參考官方文件[https://git-scm.com/docs](https://git-scm.com/docs)
