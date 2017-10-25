@@ -13,3 +13,11 @@
 最後點選`Launch Git Bash`
 
 ![Launch Git Bash](/README/install/10.jpg)
+
+應該會出現一個黑色視窗畫面
+
+![Black window](/README/install/11.jpg)
+
+沒有的話。請到搜尋Windows中搜尋`Git`，點選`Git Bash`
+
+![Search Git](/README/install/12.jpg)
