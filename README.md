@@ -46,13 +46,27 @@ Branch(分支，用高中生比較容易懂的話語就是平行世界)，為了
 
 大家可以找到`master`字樣，通常master代表主分支，下面是建立分支以及切換分支的指令，圖為建立一個lime分支範例
 
-+ 建立分支 `git branch 分支名稱`
-+ 切換分支 `git checkout 分支名稱`
-+ 顯示目前所有分支 `git branch`
++ `git branch 分支名稱` 建立分支
++ `git checkout 分支名稱` 切換分支
++ `git branch` 顯示目前所有分支
 
 ![New Branch](/README/branch/1.jpg)
 
 ### 修改些東西然後存檔
 當我們在自己的分支做些修改後，我們可以給它設定個紀錄點，紀錄我們這次修改了哪些東西，我們可以用`git status`來看那些東西被修改了
 
-![New Branch](/README/add_commit/1.jpg)
+![git status](/README/add_commit/1.jpg)
+
+我們可以用`add`指令新增本次要被儲存的檔案，我通常都用第三個
+
++ `git add 檔案名稱` 單一新增
++ `git add -A` 新增全部
++ `git add .` 新增所有修改過的檔案，除了被刪除的
+
+然後用`commit`指令給這次的修改設一個記錄點，下面的圖為參考範例
+> 正式上我們會說commit(提交)，不會說儲存，存檔，記錄點
+
++ `git commit -m "簡單的描述修改訊息"` 簡單的描述修改過什麼就好，一般人請使用這個指令
++ `git commit` 會開啟vi編輯器，讓你詳細修改要修改的內容，如果不會vi指令，請一定要照前面打
+
+![Add and Commit](/README/add_commit/2.jpg)
