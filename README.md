@@ -39,3 +39,15 @@
 先切換到你要存放危閣精神病院的目錄，假設我們要存到本機磁碟(E:)那就要輸入`cd e:`，如果要存放到D槽的Homework資料夾，那就要輸入`cd d:/Homework`，最後我們輸入`git clone https://github.com/rachelwang565/wego-game-club.git`，就會開始下載最新版本的危閣精神病院了!
 
 ![Check user](/README/clone/1.jpg)
+
+### 建立自己的Branch
+
+Branch(分支，用高中生比較容易懂的話語就是平行世界)，為了不讓我們做的修改影響到其他人或者反之，我們可以建立一個branch，在新建立的branch中做任意修改，等真的確定改完沒有問題要給夥伴看時，再將兩個branch合併
+
+大家可以找到`master`字樣，通常master代表主分支，下面是建立分支以及切換分支的指令，圖為建立一個lime分支範例
+
++ 建立分支 `git branch 分支名稱`
++ 切換分支 `git checkout 分支名稱`
++ 顯示目前所有分支 `git branch`
+
+![New Branch](/README/branch/1.jpg)
